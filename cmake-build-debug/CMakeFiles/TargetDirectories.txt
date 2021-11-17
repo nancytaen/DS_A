@@ -1,0 +1,3 @@
+C:/Users/Taen/Projects/DS&A/cmake-build-debug/CMakeFiles/DS_A.dir
+C:/Users/Taen/Projects/DS&A/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Taen/Projects/DS&A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
